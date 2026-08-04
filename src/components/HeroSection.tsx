@@ -173,7 +173,11 @@ export default function HeroSection() {
           </div>
 
           <p className="text-slate-400 text-base sm:text-lg max-w-xl mx-auto lg:mx-0 mb-8 leading-relaxed">
-           "Computer Technology student who builds full-stack web applications — from distributed systems to AI-powered tools like a Retrieval-Augmented Generation (RAG) chatbot built as my thesis. Focused on writing practical, well-structured code across the stack."
+            Computer Technology student who builds full-stack web
+            applications — from distributed systems to AI-powered tools like
+            a Retrieval-Augmented Generation (RAG) chatbot built as my
+            thesis. Focused on writing practical, well-structured code
+            across the stack.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
