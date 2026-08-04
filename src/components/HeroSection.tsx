@@ -2,10 +2,10 @@ import { useEffect, useState, useRef, useCallback } from "react";
 import { ArrowDown, Download, Eye } from "lucide-react";
 
 const titles = [
-  "Computer Engineering Student",
-  "Web Developer",
-  "Tech Enthusiast",
-  "UI/UX Explorer",
+  "Full-Stack Developer",
+  "Computer Technology Student",
+  "AI/RAG Enthusiast",
+  "Problem Solver",
 ];
 
 export default function HeroSection() {
@@ -173,9 +173,7 @@ export default function HeroSection() {
           </div>
 
           <p className="text-slate-400 text-base sm:text-lg max-w-xl mx-auto lg:mx-0 mb-8 leading-relaxed">
-            Mahasiswa Teknik Komputer yang passionate dalam membangun solusi
-            digital inovatif. Berfokus pada web development, UI/UX design, dan
-            teknologi modern.
+           "Computer Technology student who builds full-stack web applications — from distributed systems to AI-powered tools like a Retrieval-Augmented Generation (RAG) chatbot built as my thesis. Focused on writing practical, well-structured code across the stack."
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
@@ -195,12 +193,12 @@ export default function HeroSection() {
             </a>
           </div>
 
-          {/* Stats */}
+          {/* Stats — kept consistent with the About section numbers */}
           <div className="flex gap-8 mt-10 justify-center lg:justify-start">
             {[
-              { num: "10+", label: "Projects" },
-              { num: "8+", label: "Skills" },
-              { num: "2+", label: "Years Exp" },
+              { num: "6", label: "Projects" },
+              { num: "12+", label: "Certifications" },
+              { num: "5", label: "Tech Stacks" },
             ].map((stat) => (
               <div key={stat.label} className="text-center">
                 <div className="text-2xl sm:text-3xl font-bold gradient-text">
