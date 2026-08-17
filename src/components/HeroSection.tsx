@@ -189,12 +189,13 @@ export default function HeroSection() {
               View Projects
             </a>
             <a
-              href="#contact"
-              className="group inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl glass text-white font-semibold hover:bg-white/10 hover:scale-105 transition-all duration-300"
-            >
-              <Download size={20} />
-              Download CV
-            </a>
+              href="/Immanuel_Tampubolon_Resume.pdf"
+  download="Immanuel_Tampubolon_Resume.pdf"
+  className="group inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl glass text-white font-semibold hover:bg-white/10 hover:scale-105 transition-all duration-300"
+>
+  <Download size={20} />
+  Download CV
+</a>
           </div>
 
           {/* Stats — kept consistent with the About section numbers */}

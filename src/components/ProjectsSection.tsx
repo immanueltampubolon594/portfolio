@@ -80,6 +80,15 @@ const projects: Project[] = [
     demo: "#",
     source: "https://github.com/immanueltampubolon594/CyberGuard-AI",
   },
+  {
+    title: "DevPulse",
+    description:
+    "DevPulse adalah AI SaaS yang mengotomatisasi code review menggunakan Go dan Next.js. Terintegrasi dengan Groq AI (Llama 3.3) untuk memberikan feedback teknis secara real-time pada GitHub Pull Request. Fitur utama meliputi deteksi kebocoran keamanan otomatis (API keys), laporan dwibahasa (EN/ID), serta fitur \"Commit Suggestions\" langsung. Dilengkapi dashboard minimalis dengan GitHub OAuth untuk autentikasi aman dan filtering data privat.",
+    images: ["/devpulse.png"],
+    tech: ["Go", "Next.js", "Groq AI (Llama 3.3)", "GitHub OAuth", "Vercel", "Railway"],
+    demo: "#",
+    source: "https://github.com/immanueltampubolon594/devpulse",
+  },
 ];
 
 function ProjectCard({ project, index }: { project: Project; index: number }) {
