@@ -223,10 +223,11 @@ export default function HeroSection() {
             {/* Glow ring */}
             <div className="absolute inset-0 rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-cyan-500 p-1 animate-gradient" style={{ backgroundSize: "200% 200%" }}>
               <div className="w-full h-full rounded-full bg-[#0a0a0f] p-2">
-             <img
+            <img
   src="/foto.png"
   alt="Immanuel"
   className="w-full h-full rounded-full object-cover"
+  style={{ objectPosition: "center 15%" }}
 />
               </div>
             </div>
