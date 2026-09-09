@@ -77,7 +77,7 @@ const projects: Project[] = [
       "/CyberGuard6.png",
     ],
     tech: ["Next.js", "Python", "FastAPI", "LangChain", "Supabase pgvector", "Gemini API"],
-    demo: "#",
+    demo: "https://cyber-guard-ai-delta.vercel.app/",
     source: "https://github.com/immanueltampubolon594/CyberGuard-AI",
   },
   {
