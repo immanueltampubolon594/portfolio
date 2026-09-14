@@ -4,7 +4,7 @@ import { ArrowDown, Download, Eye } from "lucide-react";
 const titles = [
   "Full-Stack Developer",
   "Computer Technology Student",
-  "AI/RAG Enthusiast",
+  "AI/ Enthusiast",
   "Problem Solver",
 ];
 
@@ -189,8 +189,8 @@ export default function HeroSection() {
               View Projects
             </a>
             <a
-              href="/Immanuel_Tampubolon_Resume.pdf"
-  download="Immanuel_Tampubolon_Resume.pdf"
+              href="/IMMANUEL_Resume_AI_Engineer.pdf"
+  download="IMMANUEL_Resume_AI_Engineer.pdf"
   className="group inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl glass text-white font-semibold hover:bg-white/10 hover:scale-105 transition-all duration-300"
 >
   <Download size={20} />
