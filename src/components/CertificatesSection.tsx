@@ -100,7 +100,7 @@ const certificates: Certificate[] = [
     issuer: "HackerRank",
     year: "12 September 2026",
     type: "Certificate",
-    image: "/Sertifikat - HackerRank Software Engineer",
+    image: "/Sertifikat-HackerRank.png",
   },
   {
     title: "GenAI Powered Data Analytics Job Simulation",
