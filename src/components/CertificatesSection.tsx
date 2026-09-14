@@ -94,6 +94,21 @@ const certificates: Certificate[] = [
     type: "Certificate",
     image: "/SertifikatHuawei-2.png",
   },
+ 
+  {
+    title: "Software Engineer Certification",
+    issuer: "HackerRank",
+    year: "12 September 2026",
+    type: "Certificate",
+    image: "/Sertifikat - HackerRank Software Engineer",
+  },
+  {
+    title: "GenAI Powered Data Analytics Job Simulation",
+    issuer: "Tata x Forage",
+    year: "12 September 2026",
+    type: "Certificate",
+    image: "/Sertifikat-GenAI Powered Data Analytics Job Simulation.png",
+  },
 ];
 
 export default function CertificatesSection() {
