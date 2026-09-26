@@ -109,6 +109,13 @@ const certificates: Certificate[] = [
     type: "Certificate",
     image: "/Sertifikat-GenAI Powered Data Analytics Job Simulation.png",
   },
+    {
+    title: "QuantifAI Competition Bootcamp 2026",
+    issuer: "Glodon Indonesia × Kementerian PU – AI × 5D BIM Master Challenge",
+    year: "12 September 2026",
+    type: "Certificate",
+    image: "/Sertifikat-Glodon-QuantifAI.png",
+  },
 ];
 
 export default function CertificatesSection() {
