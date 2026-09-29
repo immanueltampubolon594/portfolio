@@ -116,6 +116,20 @@ const certificates: Certificate[] = [
     type: "Certificate",
     image: "/Sertifikat-Glodon-QuantifAI.png",
   },
+    {
+    title: "Internship Offer Letter – Artificial Intelligence Intern",
+    issuer: "CodeAlpha",
+    year: "28 September 2026",
+    type: "Internship",
+    image: "/Sertifikat_Alpha.png",
+  },
+  {
+    title: "Internship Offer Letter – Python Programming Intern",
+    issuer: "Oasis Infobyte",
+    year: "05 Oktober 2026",
+    type: "Internship",
+    image: "/Sertifikat_Infobyte.png",
+  },
 ];
 
 export default function CertificatesSection() {
