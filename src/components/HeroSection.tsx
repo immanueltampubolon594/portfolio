@@ -4,7 +4,7 @@ import { ArrowDown, Download, Eye } from "lucide-react";
 const titles = [
   "Full-Stack Developer",
   "Computer Technology Student",
-  "AI/ Enthusiast",
+  "AI Enthusiast",
   "Problem Solver",
 ];
 
@@ -152,7 +152,7 @@ export default function HeroSection() {
       <div className="absolute bottom-1/4 right-1/4 w-80 h-80 bg-purple-500/10 rounded-full blur-3xl animate-float-delayed" />
 
       {/* Content */}
-      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col lg:flex-row items-center gap-12 lg:gap-16 pt-20">
+      <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col lg:flex-row items-center gap-12 lg:gap-16 pt-28">
         {/* Text */}
         <div className="flex-1 text-center lg:text-left">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full glass mb-6 text-sm text-blue-400">
@@ -189,8 +189,8 @@ export default function HeroSection() {
               View Projects
             </a>
             <a
-              href="/IMMANUEL_Resume_AI_Engineer.pdf"
-  download="IMMANUEL_Resume_AI_Engineer.pdf"
+              href="/Immanuel_Tampubolon_CV_AI_Engineer_Intern.pdf"
+  download="Immanuel_Tampubolon_CV_AI_Engineer_Intern.pdf"
   className="group inline-flex items-center justify-center gap-2 px-8 py-4 rounded-2xl glass text-white font-semibold hover:bg-white/10 hover:scale-105 transition-all duration-300"
 >
   <Download size={20} />
