@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 [MY Portofolio]
+# MY Portofolio
 
-### [One-line tagline — apa project ini menyelesaikan masalah apa]
+
 
 *[Short description — 1-2 kalimat yang nerangin project ini untuk visitor baru]*
 
