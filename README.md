@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 [NAMA PROJECT KAMU]
+# 🚀 [MY Portofolio]
 
 ### [One-line tagline — apa project ini menyelesaikan masalah apa]
 
