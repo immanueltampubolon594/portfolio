@@ -24,7 +24,7 @@
 
 ## 📖 About
 
-**[NAMA PROJECT]** is a [kategori project — e.g. modern dashboard / SaaS landing page / portfolio site] built with a production-grade frontend stack. It combines **Vite's blazing-fast build times**, **React 18's modern features**, and **shadcn/ui's accessible component primitives** — all styled with Tailwind CSS.
+**[Portofolio]** is a [kategori project — e.g. modern dashboard / SaaS landing page / portfolio site] built with a production-grade frontend stack. It combines **Vite's blazing-fast build times**, **React 18's modern features**, and **shadcn/ui's accessible component primitives** — all styled with Tailwind CSS.
 
 Built as [motivation — e.g. a personal project / client work / open source contribution], this project emphasizes **developer experience**, **type safety**, and **UI consistency**.
 
